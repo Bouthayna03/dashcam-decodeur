@@ -1,0 +1,4 @@
+streamlit
+supabase
+Pillow
+opencv-python-headless
